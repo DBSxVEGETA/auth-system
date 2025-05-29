@@ -31,7 +31,7 @@ A secure and lightweight authentication system built using **Node.js**, **Expres
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/auth-system.git
+git clone https://github.com/DBSxVEGETA/auth-system.git
 cd auth-system
 
 ### 2. Install Dependencies
